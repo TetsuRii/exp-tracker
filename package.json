@@ -1,0 +1,1 @@
+{"name":"exp-tracker","version":"1.0.0","type":"module","scripts":{"start":"node raw.js"},"dependencies":{"bcryptjs":"^3.0.3","jsonwebtoken":"^9.0.3","mongodb":"^7.5.0","nodemailer":"^9.0.3","sql.js":"^1.14.1"}}
